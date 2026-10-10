@@ -1,5 +1,3 @@
-![Abandoned but not Forgotten](hero-screenshot.png)
-
 # 🌌 Abandoned but not Forgotten
 
 ### An Interactive Story of NASA's Discarded Equipment on the Moon and Mars
@@ -42,18 +40,6 @@ Rather than treating these objects as ordinary debris, the website presents them
 - **JavaScript** — Powers interactive features and user interactions.
 - **3D Visual Elements** — Create an immersive space-exploration experience.
 
-## 📂 Project Structure
-
-```text
-space-relics/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   └── hero-screenshot.png
-├── README.md
-└── LICENSE
-```
 
 *The filenames above illustrate the project structure. Actual CSS, JavaScript, and asset filenames may differ depending on the uploaded source files.*
 
