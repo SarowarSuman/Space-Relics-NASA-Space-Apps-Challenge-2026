@@ -1,5 +1,11 @@
 # 🌌 Abandoned but not Forgotten
 
+<p align="center">
+  <a href="https://sarowarsuman.github.io/Space-Relics-NASA-Space-Apps-Challenge-2026/">
+    <img src="https://img.shields.io/badge/🚀%20EXPLORE%20LIVE%20PROJECT-Visit%20Website-7C5CFC?style=for-the-badge&labelColor=111827" alt="Explore Live Project" />
+  </a>
+</p>
+
 ### An Interactive Story of NASA's Discarded Equipment on the Moon and Mars
 
 > Since the 1960s, NASA's missions to the Moon and Mars have left behind equipment, scientific instruments, and robotic explorers. Though many are no longer active, each object represents a chapter in humanity's journey into space.
