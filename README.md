@@ -1,10 +1,8 @@
-![Abandoned but not Forgotten — Interactive Space Exploration](assets/hero-screenshot.png)
+![Abandoned but not Forgotten](hero-screenshot.png)
 
 # 🌌 Abandoned but not Forgotten
 
 ### An Interactive Story of NASA's Discarded Equipment on the Moon and Mars
-
-![Abandoned but not Forgotten — Interactive Space Exploration](assets/hero-screenshot.png)
 
 > Since the 1960s, NASA's missions to the Moon and Mars have left behind equipment, scientific instruments, and robotic explorers. Though many are no longer active, each object represents a chapter in humanity's journey into space.
 
