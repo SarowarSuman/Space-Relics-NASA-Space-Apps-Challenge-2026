@@ -47,8 +47,6 @@ Rather than treating these objects as ordinary debris, the website presents them
 - **3D Visual Elements** — Create an immersive space-exploration experience.
 
 
-*The filenames above illustrate the project structure. Actual CSS, JavaScript, and asset filenames may differ depending on the uploaded source files.*
-
 ## 💻 Run Locally
 
 The website can be opened locally in a web browser.
