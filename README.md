@@ -71,12 +71,6 @@ The website can be opened locally in a web browser.
 
 If the project uses external libraries or services, an internet connection may be required for those resources to load.
 
-## 🌐 Deployment
-
-The website can be published using **GitHub Pages**.
-
-Once GitHub Pages is enabled for the repository, visitors can access the published website through its GitHub Pages URL.
-
 ## 🪐 Project Theme
 
 **NASA Space Apps Challenge**
